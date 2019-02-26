@@ -5,8 +5,8 @@
 // @include     http*://*.globo.com/*
 // @version     1.0
 // @license     MIT
-// @updateURL   //https://raw.githubusercontent.com/pootz10/Overlay-Transparente-dos-Videos-da-Globo/master/Overlay_Transparente_dos_Videos_da_Globo.user.js
-// @downloadURL //https://raw.githubusercontent.com/pootz10/Overlay-Transparente-dos-Videos-da-Globo/master/Overlay_Transparente_dos_Videos_da_Globo.user.js
+// @updateURL   https://raw.githubusercontent.com/pootz10/Overlay-Transparente-dos-Videos-da-Globo/master/Overlay_Transparente_dos_Videos_da_Globo.user.js
+// @downloadURL https://raw.githubusercontent.com/pootz10/Overlay-Transparente-dos-Videos-da-Globo/master/Overlay_Transparente_dos_Videos_da_Globo.user.js
 // @grant       GM_addStyle
 // ==/UserScript==
 
